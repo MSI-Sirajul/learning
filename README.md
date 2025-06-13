@@ -82,7 +82,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MSI-Sirajul/Stack-Exchange/main/.github/banner.png" alt="Profile" width="50%"/>
+  <img src="https://raw.githubusercontent.com/MSI-Sirajul/Stack-Exchange/main/.github/banner.png" alt="Profile" width="100%"/>
 
   <h2>MD Sirajul Islam</h2>
   <a href="https://www.linkedin.com/in/your-linkedin-username">

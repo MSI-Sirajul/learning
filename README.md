@@ -82,7 +82,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MSI-Sirajul/Stack-Exchange/main/.GitHub/banner.png" alt="Profile" width="100%"/>
+  <img src="https://raw.githubusercontent.com/MSI-Sirajul/Stack-Exchange/refs/heads/main/.GitHub/banner.jpg" alt="Profile" width="100%"/>
 
   <h2>MD Sirajul Islam</h2>
   <a href="https://www.linkedin.com/in/sirajul26">
@@ -126,19 +126,19 @@
 <div align="center">
   <h2>Help Line</h2></div>
 <div align="center">
-  <a href="https://your-website.com">
+  <a href="https://md-sirajul-islam.lovable.app">
     <img src="https://img.icons8.com/?size=48&id=46507&format=png" alt="Website"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/sirajul26">
     <img src="https://img.icons8.com/?size=48&id=13930&format=png" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/your-facebook-username">
+  <a href="https://www.facebook.com/TS.Sirajul26">
     <img src="https://img.icons8.com/?size=48&id=118497&format=png" alt="Facebook"/>
   </a>
-  <a href="https://www.youtube.com/@your-youtube-username">
+  <a href="https://www.youtube.com/@basichacker26">
     <img src="https://img.icons8.com/?size=48&id=19318&format=png" alt="YouTube"/>
   </a>
-  <a href="https://www.instagram.com/your-instagram-username">
+  <a href="https://www.instagram.com/its.sirajul16">
     <img src="https://img.icons8.com/?size=48&id=Xy10Jcu1L2Su&format=png" alt="Instagram"/>
   </a>
 </div>

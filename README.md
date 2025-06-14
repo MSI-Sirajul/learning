@@ -82,22 +82,22 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MSI-Sirajul/Stack-Exchange/main/.github/banner.png" alt="Profile" width="100%"/>
+  <img src="https://raw.githubusercontent.com/MSI-Sirajul/Stack-Exchange/main/.GitHub/banner.png" alt="Profile" width="100%"/>
 
   <h2>MD Sirajul Islam</h2>
-  <a href="https://www.linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/sirajul26">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/your-facebook-username">
+  <a href="https://www.facebook.com/TS.Sirajul26">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.youtube.com/@your-youtube-username">
+  <a href="https://www.youtube.com/@basichacker26">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://www.instagram.com/your-instagram-username">
+  <a href="https://www.instagram.com/its.sirajul16">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://your-website.com">
+  <a href="https://md-sirajul-islam.lovable.app">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
 </div>
